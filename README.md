@@ -1,11 +1,9 @@
-# Trading-strategy-
-Here I test a simple ML trading strategy
+Testing stockratic, a hybrid trading bot w/ interactive brokers and implemented using python scikit-learn library (87.5% accuracy on validation set)
+Tested 4  distinct investor profile within back-testing framework, ranging from "impatient trader" to "patient swing trader"
 
 ## Please note
 - I have commented out the paths in the code. If you use code you'd have to correct them accordingly. 
 - You will need to create a TDA developer account (https://developer.tdameritrade.com/apis) and get the API key in order to download the data. I have left this blank in the code where I used to download data. 
-
-The blog article with results --> (https://medium.com/analytics-vidhya/how-im-using-machine-learning-to-trade-in-the-stock-market-3ba981a2ffc2)
 
 Some results - 
 
